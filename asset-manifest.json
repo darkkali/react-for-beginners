@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-for-beginners/static/js/main.6f8c160c.js",
-    "index.html": "/react-for-beginners/index.html",
-    "main.6f8c160c.js.map": "/react-for-beginners/static/js/main.6f8c160c.js.map"
+    "main.js": "/react-fogr-beginners/static/js/main.6f8c160c.js",
+    "index.html": "/react-fogr-beginners/index.html",
+    "main.6f8c160c.js.map": "/react-fogr-beginners/static/js/main.6f8c160c.js.map"
   },
   "entrypoints": [
     "static/js/main.6f8c160c.js"
