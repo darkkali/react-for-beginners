@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-fogr-beginners/static/js/main.2cd74e80.js",
-    "index.html": "/react-fogr-beginners/index.html",
-    "main.2cd74e80.js.map": "/react-fogr-beginners/static/js/main.2cd74e80.js.map"
+    "main.js": "/react-for-beginners/static/js/main.6e11c62a.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.6e11c62a.js.map": "/react-for-beginners/static/js/main.6e11c62a.js.map"
   },
   "entrypoints": [
-    "static/js/main.2cd74e80.js"
+    "static/js/main.6e11c62a.js"
   ]
 }
